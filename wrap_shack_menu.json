@@ -1,0 +1,278 @@
+[
+  {
+    "name": "WRAP OPTIONS",
+    "description": null,
+    "price": null,
+    "food_type": "CHOOSE HOW YOU WANT YOUR MEAL TODAY"
+  },
+  {
+    "name": "THE BOWL",
+    "description": null,
+    "price": null,
+    "food_type": "CHOOSE HOW YOU WANT YOUR MEAL TODAY"
+  },
+  {
+    "name": "SALAD BOWL",
+    "description": null,
+    "price": null,
+    "food_type": "CHOOSE HOW YOU WANT YOUR MEAL TODAY"
+  },
+  {
+    "name": "GRILLED CHICKEN",
+    "description": null,
+    "price": null,
+    "food_type": "PROTEIN OPTIONS"
+  },
+  {
+    "name": "PULLED PORK",
+    "description": null,
+    "price": null,
+    "food_type": "PROTEIN OPTIONS"
+  },
+  {
+    "name": "GRILLED STEAK",
+    "description": null,
+    "price": null,
+    "food_type": "PROTEIN OPTIONS"
+  },
+  {
+    "name": "PORTABELLA MUSHROOM",
+    "description": null,
+    "price": null,
+    "food_type": "PROTEIN OPTIONS"
+  },
+  {
+    "name": "DOUBLE MEAT",
+    "description": null,
+    "price": null,
+    "food_type": "PROTEIN OPTIONS"
+  },
+  {
+    "name": "CILANTRO LIME RICE",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "BEANS: BLACK, REFRIED, PINTO",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "FAJITA VEGGIES",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "SHREDDED CHEESE OR QUESO",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "ROMAINE OR SPINACH",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "JALAPENOS",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "BLACK OLIVES",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "SHREDDED CARROTS",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "BANANA PEPPERS",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "CRISPY FRIED ONIONS",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "BACON",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "GUACAMOLE",
+    "description": null,
+    "price": null,
+    "food_type": "TOPPINGS FOR YOUR MEAL"
+  },
+  {
+    "name": "SOUR CREAM",
+    "description": null,
+    "price": null,
+    "food_type": "SAUCES"
+  },
+  {
+    "name": "MEXI RANCH",
+    "description": null,
+    "price": null,
+    "food_type": "SAUCES"
+  },
+  {
+    "name": "CREAMY CHIPOTLE",
+    "description": null,
+    "price": null,
+    "food_type": "SAUCES"
+  },
+  {
+    "name": "PESTO MAYO",
+    "description": null,
+    "price": null,
+    "food_type": "SAUCES"
+  },
+  {
+    "name": "BLUE CHEESE DRESSING",
+    "description": null,
+    "price": null,
+    "food_type": "SAUCES"
+  },
+  {
+    "name": "HOT WING SAUCE",
+    "description": null,
+    "price": null,
+    "food_type": "SAUCES"
+  },
+  {
+    "name": "CAESAR",
+    "description": null,
+    "price": null,
+    "food_type": "SAUCES"
+  },
+  {
+    "name": "ITALIAN DRESSING",
+    "description": null,
+    "price": null,
+    "food_type": "SAUCES"
+  },
+  {
+    "name": "BBQ SAUCE",
+    "description": null,
+    "price": null,
+    "food_type": "SAUCES"
+  },
+  {
+    "name": "PICO DE GALLO",
+    "description": null,
+    "price": null,
+    "food_type": "HOUSE MADE SALSAS"
+  },
+  {
+    "name": "SHACK SALSA",
+    "description": null,
+    "price": null,
+    "food_type": "HOUSE MADE SALSAS"
+  },
+  {
+    "name": "SMOKY CORN",
+    "description": null,
+    "price": null,
+    "food_type": "HOUSE MADE SALSAS"
+  },
+  {
+    "name": "ROASTED JALAPENO",
+    "description": null,
+    "price": null,
+    "food_type": "HOUSE MADE SALSAS"
+  },
+  {
+    "name": "CHIPS AND SALSA",
+    "description": null,
+    "price": null,
+    "food_type": "SIDES"
+  },
+  {
+    "name": "CHIPS AND QUESO",
+    "description": null,
+    "price": null,
+    "food_type": "SIDES"
+  },
+  {
+    "name": "CHIPS AND SALSA AND QUESO",
+    "description": null,
+    "price": null,
+    "food_type": "SIDES"
+  },
+  {
+    "name": "SIDE SALSA",
+    "description": null,
+    "price": null,
+    "food_type": "SIDES"
+  },
+  {
+    "name": "SIDE QUESO",
+    "description": null,
+    "price": null,
+    "food_type": "SIDES"
+  },
+  {
+    "name": "SIDE OF GUACAMOLE",
+    "description": null,
+    "price": null,
+    "food_type": "SIDES"
+  },
+  {
+    "name": "CHIPS WITH SALSA OR QUESO AND A FOUNTAIN DRINK",
+    "description": "",
+    "price": "",
+    "food_type": "SHACK TOUR COMBO MEAL"
+  },
+  {
+    "name": "FOUNTAIN SODA",
+    "description": null,
+    "price": null,
+    "food_type": "BEVERAGES"
+  },
+  {
+    "name": "CANNED & BOTTLED BEVERAGES",
+    "description": null,
+    "price": null,
+    "food_type": "BEVERAGES"
+  },
+  {
+    "name": "FROZEN NONALCOHOLIC SLUSHY",
+    "description": "",
+    "price": "",
+    "food_type": "BEVERAGES"
+  },
+  {
+    "name": "FROZEN BOOZY SLUSHY",
+    "description": "",
+    "price": "",
+    "food_type": "BEVERAGES"
+  },
+  {
+    "name": "FROZEN MARGARITA",
+    "description": "",
+    "price": "",
+    "food_type": "BEVERAGES"
+  },
+  {
+    "name": "BEERS AND SHOTS",
+    "description": "",
+    "price": "",
+    "food_type": "BEVERAGES"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "name": "1/3 LB BIG SKY CHEESESTEAK",
+    "price": "$\n14.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "1/3 LB PASTRAMI REUBEN",
+    "price": "$\n14.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "AVOCADO TOMATO",
+    "price": "$\n12",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "CHICKEN CAESAR WRAP",
+    "price": "$\n12.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "CHICKEN CAPRESE",
+    "price": "$\n14.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "CLASSIC TUNA SALAD SANDWICH",
+    "price": "$\n12.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "CRANBERRY-WALNUT CHICKEN",
+    "price": "$\n12.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "CURRIED CHICKEN",
+    "price": "$\n12.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "GRILLED CHEESE\nVT",
+    "price": "$\n7",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "ITALIAN SUB",
+    "price": "$\n12.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "PASTRAMI & SWISS",
+    "price": "$\n12",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "PASTRAMI REUBEN",
+    "price": "$\n12.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "ROAST BEEF & PEPPERJACK",
+    "price": "$\n12.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "SOUTHWEST CHICKEN",
+    "price": "$\n14.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "TURKEY & SWISS",
+    "price": "$\n12",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "TURKEY BLT WITH AVOCADO",
+    "price": "$\n12.5",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "VEGGIES PILED HIGH\nVT",
+    "price": "$\n12",
+    "meal_type": "Deli Counter",
+    "description": "roast beef, provolone cheese, roasted red peppers, caramelized onions and banana peppers"
+  },
+  {
+    "name": "CAESAR",
+    "price": "$\n12",
+    "meal_type": "Salads",
+    "description": "romaine lettuce, parmesan cheese, with caesar dressing"
+  },
+  {
+    "name": "HOUSE GREEN SALAD\nVT",
+    "price": "$\n12",
+    "meal_type": "Salads",
+    "description": "romaine lettuce, parmesan cheese, with caesar dressing"
+  },
+  {
+    "name": "MEDITERRANEAN SALAD\nVT",
+    "price": "$\n12",
+    "meal_type": "Salads",
+    "description": "romaine lettuce, parmesan cheese, with caesar dressing"
+  },
+  {
+    "name": "MOOSE COBB",
+    "price": "$\n12.5",
+    "meal_type": "Salads",
+    "description": "romaine lettuce, parmesan cheese, with caesar dressing"
+  },
+  {
+    "name": "THE MOOSE CHEF SALAD",
+    "price": "$\n12.5",
+    "meal_type": "Salads",
+    "description": "romaine lettuce, parmesan cheese, with caesar dressing"
+  },
+  {
+    "name": "BLACK BEAN AND BARLEY SALAD\nVT",
+    "price": "$\n20",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "CAPRESE SALAD",
+    "price": "$\n20",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "CLASSIC MACARONI SALAD\nVT",
+    "price": "$\n16",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "CLASSIC POTATO SALAD",
+    "price": "$\n16",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "CLASSIC TUNA SALAD",
+    "price": "$\n20",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "CRANBERRY CHICKEN WALNUT SALAD",
+    "price": "$\n20",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "CURRIED CHICKEN SALAD",
+    "price": "$\n20",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "CURRY SPICED QUINOA SALAD\nVT",
+    "price": "$\n16",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "MEDITERRANEAN PASTA",
+    "price": "$\n16",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "ORZO, FETA, SUN-DRIED TOMATO AND KALAMATA OLIVE SALAD\nVT",
+    "price": "$\n16",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "ROASTED SWEET POTATO AND BLACK BEAN SALAD\nVT",
+    "price": "$\n20",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "SUMMER BROCCOLI",
+    "price": "$\n20",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  },
+  {
+    "name": "VEGGIE COLESLAW\nVT",
+    "price": "$\n16",
+    "meal_type": "Specialty Salads",
+    "description": "with bell pepper, red onion and cilantro-lime-jalapeño dressing"
+  }
+]

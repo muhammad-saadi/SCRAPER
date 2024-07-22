@@ -1,0 +1,1209 @@
+[
+  {
+    "itemInfo": "WELL VODKA SINGLE",
+    "meal_type": "WELL HAPPY HOUR",
+    "priice": "$5.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "WELL VODKA DOUBLE",
+    "meal_type": "WELL HAPPY HOUR",
+    "priice": "$9.00",
+    "modalContent": [
+      {
+        "title": "Drink as...",
+        "modifiers": [
+          {
+            "modifier": "...as a Paloma",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Bloody Mary",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Cointreau marg",
+            "price": "+$6.00"
+          },
+          {
+            "modifier": "...as COCKTAIL",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Cosmo",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Dirty Shirley",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Irish Coffee",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as John Daley",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Lemon Drop",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Manhattan",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Margarita",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Martini",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Mule",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Negroni",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Old Fashioned",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Ranch Water",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "...as Screwdriver",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Spicy Marg",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sunrise",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Trash Can",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as White Russian",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Special Instructions",
+        "modifiers": [
+          {
+            "modifier": "",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "WELL GIN SINGLE",
+    "meal_type": "WELL HAPPY HOUR",
+    "priice": "$5.00",
+    "modalContent": [
+      {
+        "title": "Mixers",
+        "modifiers": [
+          {
+            "modifier": "coke",
+            "price": ""
+          },
+          {
+            "modifier": "cranberry juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "diet coke",
+            "price": ""
+          },
+          {
+            "modifier": "ginger ale",
+            "price": ""
+          },
+          {
+            "modifier": "ginger beer",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "grapefruit juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "Huckleberry",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "Iced Tea",
+            "price": ""
+          },
+          {
+            "modifier": "Lemonade",
+            "price": ""
+          },
+          {
+            "modifier": "Orange Juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "pineapple juice",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Red Bull",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "soda",
+            "price": ""
+          },
+          {
+            "modifier": "sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Splash of Cranberry",
+            "price": "+$0.25"
+          },
+          {
+            "modifier": "Splash orange",
+            "price": ""
+          },
+          {
+            "modifier": "Splash pineapple",
+            "price": ""
+          },
+          {
+            "modifier": "sprite",
+            "price": ""
+          },
+          {
+            "modifier": "Strawberry",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "tonic",
+            "price": ""
+          },
+          {
+            "modifier": "water",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Drink as...",
+        "modifiers": [
+          {
+            "modifier": "...as a Paloma",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Bloody Mary",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Cointreau marg",
+            "price": "+$6.00"
+          },
+          {
+            "modifier": "...as COCKTAIL",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Cosmo",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Dirty Shirley",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Irish Coffee",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as John Daley",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Lemon Drop",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Manhattan",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Margarita",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Martini",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Mule",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Negroni",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Old Fashioned",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Ranch Water",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "...as Screwdriver",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Spicy Marg",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sunrise",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Trash Can",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as White Russian",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Special Instructions",
+        "modifiers": [
+          {
+            "modifier": "",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "WELL GIN DOUBLE",
+    "meal_type": "WELL HAPPY HOUR",
+    "priice": "$9.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "WELL TEQULIA SINGLE",
+    "meal_type": "WELL HAPPY HOUR",
+    "priice": "$7.00",
+    "modalContent": [
+      {
+        "title": "Mixers",
+        "modifiers": [
+          {
+            "modifier": "coke",
+            "price": ""
+          },
+          {
+            "modifier": "cranberry juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "diet coke",
+            "price": ""
+          },
+          {
+            "modifier": "ginger ale",
+            "price": ""
+          },
+          {
+            "modifier": "ginger beer",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "grapefruit juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "Huckleberry",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "Iced Tea",
+            "price": ""
+          },
+          {
+            "modifier": "Lemonade",
+            "price": ""
+          },
+          {
+            "modifier": "Orange Juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "pineapple juice",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Red Bull",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "soda",
+            "price": ""
+          },
+          {
+            "modifier": "sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Splash of Cranberry",
+            "price": "+$0.25"
+          },
+          {
+            "modifier": "Splash orange",
+            "price": ""
+          },
+          {
+            "modifier": "Splash pineapple",
+            "price": ""
+          },
+          {
+            "modifier": "sprite",
+            "price": ""
+          },
+          {
+            "modifier": "Strawberry",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "tonic",
+            "price": ""
+          },
+          {
+            "modifier": "water",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Drink as...",
+        "modifiers": [
+          {
+            "modifier": "...as a Paloma",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Bloody Mary",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Cointreau marg",
+            "price": "+$6.00"
+          },
+          {
+            "modifier": "...as COCKTAIL",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Cosmo",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Dirty Shirley",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Irish Coffee",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as John Daley",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Lemon Drop",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Manhattan",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Margarita",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Martini",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Mule",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Negroni",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Old Fashioned",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Ranch Water",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "...as Screwdriver",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Spicy Marg",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sunrise",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Trash Can",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as White Russian",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Special Instructions",
+        "modifiers": [
+          {
+            "modifier": "",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "WELL TEQUILA DOUBLE",
+    "meal_type": "WELL HAPPY HOUR",
+    "priice": "$9.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "WELL RUM SINGLE",
+    "meal_type": "WELL HAPPY HOUR",
+    "priice": "$7.00",
+    "modalContent": [
+      {
+        "title": "Drink as...",
+        "modifiers": [
+          {
+            "modifier": "...as a Paloma",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Bloody Mary",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Cointreau marg",
+            "price": "+$6.00"
+          },
+          {
+            "modifier": "...as COCKTAIL",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Cosmo",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Dirty Shirley",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Irish Coffee",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as John Daley",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Lemon Drop",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Manhattan",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Margarita",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Martini",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Mule",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Negroni",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Old Fashioned",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Ranch Water",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "...as Screwdriver",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Spicy Marg",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sunrise",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Trash Can",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as White Russian",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Mixers",
+        "modifiers": [
+          {
+            "modifier": "coke",
+            "price": ""
+          },
+          {
+            "modifier": "cranberry juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "diet coke",
+            "price": ""
+          },
+          {
+            "modifier": "ginger ale",
+            "price": ""
+          },
+          {
+            "modifier": "ginger beer",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "grapefruit juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "Huckleberry",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "Iced Tea",
+            "price": ""
+          },
+          {
+            "modifier": "Lemonade",
+            "price": ""
+          },
+          {
+            "modifier": "Orange Juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "pineapple juice",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Red Bull",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "soda",
+            "price": ""
+          },
+          {
+            "modifier": "sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Splash of Cranberry",
+            "price": "+$0.25"
+          },
+          {
+            "modifier": "Splash orange",
+            "price": ""
+          },
+          {
+            "modifier": "Splash pineapple",
+            "price": ""
+          },
+          {
+            "modifier": "sprite",
+            "price": ""
+          },
+          {
+            "modifier": "Strawberry",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "tonic",
+            "price": ""
+          },
+          {
+            "modifier": "water",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Special Instructions",
+        "modifiers": [
+          {
+            "modifier": "",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "WELL RUM DOUBLE",
+    "meal_type": "WELL HAPPY HOUR",
+    "priice": "$9.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "WELL WHISKEY SINGLE",
+    "meal_type": "WELL HAPPY HOUR",
+    "priice": "$7.00",
+    "modalContent": [
+      {
+        "title": "Mixers",
+        "modifiers": [
+          {
+            "modifier": "coke",
+            "price": ""
+          },
+          {
+            "modifier": "cranberry juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "diet coke",
+            "price": ""
+          },
+          {
+            "modifier": "ginger ale",
+            "price": ""
+          },
+          {
+            "modifier": "ginger beer",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "grapefruit juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "Huckleberry",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "Iced Tea",
+            "price": ""
+          },
+          {
+            "modifier": "Lemonade",
+            "price": ""
+          },
+          {
+            "modifier": "Orange Juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "pineapple juice",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Red Bull",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "soda",
+            "price": ""
+          },
+          {
+            "modifier": "sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Splash of Cranberry",
+            "price": "+$0.25"
+          },
+          {
+            "modifier": "Splash orange",
+            "price": ""
+          },
+          {
+            "modifier": "Splash pineapple",
+            "price": ""
+          },
+          {
+            "modifier": "sprite",
+            "price": ""
+          },
+          {
+            "modifier": "Strawberry",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "tonic",
+            "price": ""
+          },
+          {
+            "modifier": "water",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Drink as...",
+        "modifiers": [
+          {
+            "modifier": "...as a Paloma",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Bloody Mary",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Cointreau marg",
+            "price": "+$6.00"
+          },
+          {
+            "modifier": "...as COCKTAIL",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Cosmo",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Dirty Shirley",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Irish Coffee",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as John Daley",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Lemon Drop",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Manhattan",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Margarita",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Martini",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Mule",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Negroni",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Old Fashioned",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Ranch Water",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "...as Screwdriver",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Spicy Marg",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sunrise",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Trash Can",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as White Russian",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Special Instructions",
+        "modifiers": [
+          {
+            "modifier": "",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "WELL WHISKEY DOUBLE",
+    "meal_type": "WELL HAPPY HOUR",
+    "priice": "$9.00",
+    "modalContent": [
+      {
+        "title": "Mixers",
+        "modifiers": [
+          {
+            "modifier": "coke",
+            "price": ""
+          },
+          {
+            "modifier": "cranberry juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "diet coke",
+            "price": ""
+          },
+          {
+            "modifier": "ginger ale",
+            "price": ""
+          },
+          {
+            "modifier": "ginger beer",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "grapefruit juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "Huckleberry",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "Iced Tea",
+            "price": ""
+          },
+          {
+            "modifier": "Lemonade",
+            "price": ""
+          },
+          {
+            "modifier": "Orange Juice",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "pineapple juice",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Red Bull",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "soda",
+            "price": ""
+          },
+          {
+            "modifier": "sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Splash of Cranberry",
+            "price": "+$0.25"
+          },
+          {
+            "modifier": "Splash orange",
+            "price": ""
+          },
+          {
+            "modifier": "Splash pineapple",
+            "price": ""
+          },
+          {
+            "modifier": "sprite",
+            "price": ""
+          },
+          {
+            "modifier": "Strawberry",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "tonic",
+            "price": ""
+          },
+          {
+            "modifier": "water",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Drink as...",
+        "modifiers": [
+          {
+            "modifier": "...as a Paloma",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Bloody Mary",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Cointreau marg",
+            "price": "+$6.00"
+          },
+          {
+            "modifier": "...as COCKTAIL",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Cosmo",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Dirty Shirley",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "...as Irish Coffee",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as John Daley",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Lemon Drop",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Manhattan",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Margarita",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Martini",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Mule",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Negroni",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Old Fashioned",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "...as Ranch Water",
+            "price": "+$1.00"
+          },
+          {
+            "modifier": "...as Screwdriver",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sour",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Spicy Marg",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Sunrise",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "...as Trash Can",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "...as White Russian",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Special Instructions",
+        "modifiers": [
+          {
+            "modifier": "",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "T-Shirt",
+    "meal_type": "Merchandise",
+    "priice": "$25.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Shot Glass",
+    "meal_type": "Merchandise",
+    "priice": "$7.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Koozie",
+    "meal_type": "Merchandise",
+    "priice": "$5.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Fanny Pack",
+    "meal_type": "Merchandise",
+    "priice": "$10.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Cooler Bag",
+    "meal_type": "Merchandise",
+    "priice": "$15.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Farmers Market Burger",
+    "meal_type": "Patio Farmers Market",
+    "priice": "$16.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Farmers Market Ribs",
+    "meal_type": "Patio Farmers Market",
+    "priice": "$20.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Kettle Chips",
+    "meal_type": "Patio Farmers Market",
+    "priice": "$4.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Water",
+    "meal_type": "Patio Farmers Market",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Cole Slaw",
+    "meal_type": "Patio Farmers Market",
+    "priice": "$4.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Farmers Market Beer",
+    "meal_type": "Patio Farmers Market",
+    "priice": "$6.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Mango Marg",
+    "meal_type": "Patio Farmers Market",
+    "priice": "$10.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Bottled Water",
+    "meal_type": "Patio Farmers Market",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Strawvberry Mojito",
+    "meal_type": "Patio Farmers Market",
+    "priice": "$10.00",
+    "modalContent": ""
+  }
+]

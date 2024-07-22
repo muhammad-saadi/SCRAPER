@@ -1,0 +1,6195 @@
+[
+  {
+    "itemInfo": "Thai Fried Rice\n\nWhite rice, egg, onion, carrots, bell pepper and garlic, pan-fried in our homemade Thai Stir Fry Sauce. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Featured Items",
+    "priice": "$24.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Pan-Fried Dumplings\n\nPork, garlic and cilantro pan-fried in a wonton paper, served with our house-made Thai Soy Sauce. Six per order.",
+    "meal_type": "Featured Items",
+    "priice": "$15.00",
+    "modalContent": [
+      {
+        "title": "App Extras\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Extra App Sauce",
+            "price": "+$0.50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Chicken Satay\n\nChicken breast marinated in coconut milk, lime leaf, galangal, onion and lemongrass. Served with our house-made Thai Peanut Sauce. Five skewers per order.",
+    "meal_type": "Full Menu",
+    "priice": "$18.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Deep-Fried Dumpling\n\nPork, garlic and cilantro deep-fried in a wonton paper, served with our house-made Thai Soy Sauce. Six per order.",
+    "meal_type": "Full Menu",
+    "priice": "$13.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Deep-Fried Tiger Bombs\n\nCrab, cream cheese, onion, green onion and carrot deep-fried in a wonton paper, served with our house-made Thai Sweet and Sour Sauce. Five per order.",
+    "meal_type": "Full Menu",
+    "priice": "$15.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Pan-Fried Dumplings\n\nPork, garlic and cilantro pan-fried in a wonton paper, served with our house-made Thai Soy Sauce. Six per order.",
+    "meal_type": "Full Menu",
+    "priice": "$15.00",
+    "modalContent": [
+      {
+        "title": "App Extras\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Extra App Sauce",
+            "price": "+$0.50"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Green Curry\n\nMushroom, zucchini, broccoli, and Thai basil (Gfs). Spice Level 4/5. The spice level cannot be changed. This item contains shrimp paste and cannot be changed. It CANNOT be made vegan or vegetarian.",
+    "meal_type": "Full Menu",
+    "priice": "$23.00",
+    "modalContent": [
+      {
+        "title": "Soup Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$5.00"
+          }
+        ]
+      },
+      {
+        "title": "Rice or Noodle\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Rice",
+            "price": ""
+          },
+          {
+            "modifier": "Thin Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Soup ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Massaman Curry\n\nPotato, yellow onion and peanut (Gfs). Spice Level 3/5. The spice level cannot be changed. This item contains shrimp paste and cannot be changed. It CANNOT be made vegan or vegetarian.",
+    "meal_type": "Full Menu",
+    "priice": "$23.00",
+    "modalContent": [
+      {
+        "title": "Soup Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$5.00"
+          }
+        ]
+      },
+      {
+        "title": "Rice or Noodle\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Rice",
+            "price": ""
+          },
+          {
+            "modifier": "Thin Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Soup ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Panang Curry\n\nCarrot, bell pepper, zucchini and mushroom (Gfs). Spice level 4/5. The spice level cannot be changed. This item contains shrimp paste and cannot be changed. It CANNOT be made vegan or vegetarian.",
+    "meal_type": "Full Menu",
+    "priice": "$23.00",
+    "modalContent": [
+      {
+        "title": "Soup Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$5.00"
+          }
+        ]
+      },
+      {
+        "title": "Rice or Noodle\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Rice",
+            "price": ""
+          },
+          {
+            "modifier": "Thin Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Soup ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Red Curry\n\nPineapple, bell pepper, carrot and Thai basil (Gfs). Spice Level 5/5. The spice level cannot be changed. This item contains shrimp paste and cannot be changed. It CANNOT be made vegan or vegetarian.",
+    "meal_type": "Full Menu",
+    "priice": "$23.00",
+    "modalContent": [
+      {
+        "title": "Soup Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$5.00"
+          }
+        ]
+      },
+      {
+        "title": "Rice or Noodle\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Rice",
+            "price": ""
+          },
+          {
+            "modifier": "Thin Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Soup ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Yellow Curry\n\nYellow onion, bell pepper and potato (Gfs) Spice Level 3/5. The spice level cannot be changed. This item contains shrimp paste and cannot be changed. It CANNOT be made vegan or vegetarian.",
+    "meal_type": "Full Menu",
+    "priice": "$23.00",
+    "modalContent": [
+      {
+        "title": "Soup Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$5.00"
+          }
+        ]
+      },
+      {
+        "title": "Rice or Noodle\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Rice",
+            "price": ""
+          },
+          {
+            "modifier": "Thin Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Soup ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Coconut Cake (GF)\n\nLayers of coconut cake and coconut frosting, topped with toasted coconut flakes. (GF)",
+    "meal_type": "Full Menu",
+    "priice": "$11.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Oreo Cake (GF)\n\nThick layers of chocolate cake, gluten-free Oreo buttercream and topped with a semisweet chocolate ganache (GF).",
+    "meal_type": "Full Menu",
+    "priice": "$12.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Triple Chocolate Cake (GF)\n\nLayers of thick chocolate cake and rich chocolate buttercream, topped with a semisweet chocolate ganache. (GF)",
+    "meal_type": "Full Menu",
+    "priice": "$12.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Bottled Water",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Club Soda",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Coke",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Coke Zero",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Diet Coke",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Dr Pepper",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Ice Tea",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Lemonade",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Root Beer",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Sprite",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Pad Nam Prip Praw Fried Rice\n\nWhite rice, egg, carrots, bell pepper, mushrooms, onions, broccoli and garlic, pan-fried in our homemade Thai stir-fry sauce with chili paste oil. Spice level 0-5. (GFS). This item CANNOT be made vegetarian or vegan.",
+    "meal_type": "Full Menu",
+    "priice": "$27.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "PPP ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Pad Thai Fried Rice\n\nWhite rice, egg, green onion, bean sprouts and garlic pan-fried in our homemade Pad Thai Sauce. Garnished with a lime. Your choice of spice: 0-5. (Gfs, vg, v)",
+    "meal_type": "Full Menu",
+    "priice": "$25.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Pineapple Fried Rice\n\nWhite rice, egg, broccoli, pineapple, cashews, raisins, yellow curry powder, carrots, bell pepper, onion and garlic, pan-fried in our homemade Thai Stir Fry Sauce. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$28.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Spicy Basil Fried Rice\n\nWhite rice, mushrooms, onion, carrots, bell pepper, basil and garlic pan fried in our homemade Thai Stir Fry Sauce. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$26.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Thai Fried Rice\n\nWhite rice, egg, onion, carrots, bell pepper and garlic, pan-fried in our homemade Thai Stir Fry Sauce. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$24.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Crispy Duck\n\nRice noodles, yellow onion, green onion, bell pepper and basil. Includes duck. Your choice of spice: 0-5. (GFs, vg, v)",
+    "meal_type": "Full Menu",
+    "priice": "$31.00",
+    "modalContent": [
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Drunken Noodles\n\nRice noodles, mushroom, zucchini, baby corn, broccoli, onion, carrot, bell pepper, finger root, young pepper and basil. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$23.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Pad Nam Prip Praw Noodles\n\nRice noodles, mushroom, broccoli, onion, carrot, bell pepper, basil and chili paste oil. Spice level 0-5. (GFS) This item CANNOT be made vegan or vegetarian.",
+    "meal_type": "Full Menu",
+    "priice": "$23.00",
+    "modalContent": [
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "PPP ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Pad See Ew\n\nRice noodles, broccoli, mushrooms, carrots and egg. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$23.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Pad Thai Noodles\n\nRice noodles, egg, bean sprout and green onion in our house-made Pad Thai Sauce. Garnished with a lime slice and roasted ground peanuts. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$19.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Pad Woonsen\n\nGlass noodles, egg, broccoli, baby corn, tomato, green onion and snap peas. Traditionally served with glass noodles. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$19.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Spicy Basil Noodles\n\nRice noodles, mushroom, onion, carrot, bell pepper and basil. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$26.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Stir-Fry Cashew Noodles\n\nRice noodles, mushroom, onion, carrot, bell pepper, green onion and cashew in our house-made Thai Sweet Cashew Sauce. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$21.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Sweet and Sour Noodles\n\nRice noodles, fresh pineapple, onion, carrot, bell pepper and green onion in our house-made Thai Sweet and Sour Sauce. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$21.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Larb-Gai (Chicken Salad)\n\nMinced chicken, red onion, green onion, cilantro, and lime juice. Spice level 0-5. (GFS).",
+    "meal_type": "Full Menu",
+    "priice": "$14.00",
+    "modalContent": [
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Salad ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Large Green Papaya Salad\n\nFresh green papaya, tomato, lime juice and ground peanut. Spice level 0-5. (GFS). This item CANNOT be made vegan, vegetarian or without shellfish.",
+    "meal_type": "Full Menu",
+    "priice": "$15.00",
+    "modalContent": [
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Salad ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Small Green Papaya Salad\n\nFresh green papaya, tomato, lime juice and ground peanut. Spice level 0-5. (GFS). This item CANNOT be made vegan, vegetarian or without shellfish.",
+    "meal_type": "Full Menu",
+    "priice": "$12.00",
+    "modalContent": [
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Salad ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Extra App Sauce",
+    "meal_type": "Full Menu",
+    "priice": "$0.50",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Extra Stir Fry Sauce",
+    "meal_type": "Full Menu",
+    "priice": "$1.50",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Rice",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Rice Noodles",
+    "meal_type": "Full Menu",
+    "priice": "$3.00",
+    "modalContent": [
+      {
+        "title": "Rice Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Rice Noodles",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Side of Beef",
+    "meal_type": "Full Menu",
+    "priice": "$10.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Side of Chicken",
+    "meal_type": "Full Menu",
+    "priice": "$10.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Side of Crispy Pork Belly\n\nCANNOT BE MADE GLUTEN FREE",
+    "meal_type": "Full Menu",
+    "priice": "$10.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Side of Duck",
+    "meal_type": "Full Menu",
+    "priice": "$10.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Side of Peanut Sauce",
+    "meal_type": "Full Menu",
+    "priice": "$2.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Side of Pork",
+    "meal_type": "Full Menu",
+    "priice": "$10.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Side of Shrimp",
+    "meal_type": "Full Menu",
+    "priice": "$10.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Side of Tofu\n\nCANNOT BE MADE GLUTEN FREE",
+    "meal_type": "Full Menu",
+    "priice": "$10.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Side of Veggies",
+    "meal_type": "Full Menu",
+    "priice": "$5.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Side of Thai Chili Paste",
+    "meal_type": "Full Menu",
+    "priice": "$0.75",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Pork Udon\n\nMinced pork, pork dumplings, udon noodles, cilantro and green onion served in our house-made pork bone broth. Spices served on the side.",
+    "meal_type": "Full Menu",
+    "priice": "$21.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Tom Kha Mushroom\n\nMushroom, coconut milk, lemongrass, galangal, lime leaves, cilantro and chili paste in our homemade chicken bone broth. Spice level 0-5. (GFS). This item CANNOT be made vegan or vegetarian.",
+    "meal_type": "Full Menu",
+    "priice": "$18.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Rice or Noodle\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Rice",
+            "price": ""
+          },
+          {
+            "modifier": "Thin Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Soup ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Tom Yum Mushroom\n\nGluten free sensitive. Mushroom, tomato, lemongrass, galangal, lime leaves, cilantro and chili paste in our homemade chicken bone broth. Spice level 0-5. (GFS). This item CANNOT be made vegan or vegetarian.",
+    "meal_type": "Full Menu",
+    "priice": "$18.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Rice or Noodle\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Rice",
+            "price": ""
+          },
+          {
+            "modifier": "Thin Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Rice Noodles",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Soup ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Fried Spicy\n\nBaby corn, broccoli, zucchini, carrot, onion, mushrooms, bell pepper, young pepper, finger root, lime leaves, basil and chili paste. Spice level 0-5. (GFS). This item CANNOT be made vegan, vegetarian or without shellfish.",
+    "meal_type": "Full Menu",
+    "priice": "$25.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Orange Chicken\n\nDeep fried chicken covered with a housemade orange chicken sauce, served with a side of rice. Spice level 0-5.",
+    "meal_type": "Full Menu",
+    "priice": "$21.00",
+    "modalContent": [
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Pad Nam Prip Praw\n\nCarrot, bell pepper, mushrooms, onion, broccoli, Thai Basil, and chili paste oil. Spice level 0-5. (GFS). This item CANNOT be made vegan or vegetarian.",
+    "meal_type": "Full Menu",
+    "priice": "$27.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "PPP ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Spicy Basil\n\nMushrooms, onion, carrot, bell peppers, and Thai basil in our house-made Thai Stir Fry Sauce. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$24.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Spicy Basil Eggplant\n\nMinced chicken, mushroom, onion, carrot, bell pepper, basil and eggplant. Cannot be made gluten free. Spice level 0-5.",
+    "meal_type": "Full Menu",
+    "priice": "$25.00",
+    "modalContent": [
+      {
+        "title": "Eggplant Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": ""
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": ""
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Eggplant ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Spicy BBQ\n\nRed curry paste, baby corn, broccoli, zucchini, carrot, onion, mushroom, bell pepper, lime leaves and basil. Spice level 3-5. (GFS). This item CANNOT be made vegan, vegetarian or without shellfish.",
+    "meal_type": "Full Menu",
+    "priice": "$25.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Stir Fry Cashew Nut\n\nMushrooms, onion, carrot, bell pepper, green onion, and cashews in our house-made Thai Sweet Cashew Sauce. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$23.00",
+    "modalContent": ""
+  },
+  {
+    "itemInfo": "Stir Fry Ginger\n\nGinger, bell pepper, yellow onion, mushrooms, and green onion. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$25.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Sweet and Sour\n\nPineapple, onion, carrot, bell pepper, and green onions in our house-made Thai Sweet and Sour Stir Fry Sauce. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$23.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Thai Mixed Vegetables\n\nCarrot, snap peas, broccoli, mushroom, and baby corn in our house-made Thai Stir Fry Sauce. Spice level 0-5. (GFS, VG, V).",
+    "meal_type": "Full Menu",
+    "priice": "$20.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Pad Thai Fried Rice",
+    "meal_type": "Lunch Specials",
+    "priice": "$18.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Pad Thai Noodles",
+    "meal_type": "Lunch Specials",
+    "priice": "$19.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Spicy Basil Noodle",
+    "meal_type": "Lunch Specials",
+    "priice": "$19.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Spicy Basil Stir Fry",
+    "meal_type": "Lunch Specials",
+    "priice": "$18.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Stir Fry Cashew Noodle",
+    "meal_type": "Lunch Specials",
+    "priice": "$19.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Stir Fry Cashew Nut",
+    "meal_type": "Lunch Specials",
+    "priice": "$18.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Sweet and Sour Noodle",
+    "meal_type": "Lunch Specials",
+    "priice": "$19.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Noodle Choice\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Thin Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Wide Noodle",
+            "price": ""
+          },
+          {
+            "modifier": "Glass Noodle",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Sweet and Sour Stir Fry",
+    "meal_type": "Lunch Specials",
+    "priice": "$18.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Thai Fried Rice",
+    "meal_type": "Lunch Specials",
+    "priice": "$18.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "itemInfo": "Thai Mixed Vegetables Stir Fry",
+    "meal_type": "Lunch Specials",
+    "priice": "$18.00",
+    "modalContent": [
+      {
+        "title": "Protein\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "Beef",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Minced Chicken",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "No Protein",
+            "price": ""
+          },
+          {
+            "modifier": "Pork",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Shrimp",
+            "price": "+$7.00"
+          },
+          {
+            "modifier": "Tofu",
+            "price": "+$4.00"
+          }
+        ]
+      },
+      {
+        "title": "Spice Level\nRequired*\nPlease select 1",
+        "modifiers": [
+          {
+            "modifier": "0",
+            "price": ""
+          },
+          {
+            "modifier": "1",
+            "price": ""
+          },
+          {
+            "modifier": "2",
+            "price": ""
+          },
+          {
+            "modifier": "3",
+            "price": ""
+          },
+          {
+            "modifier": "4",
+            "price": ""
+          },
+          {
+            "modifier": "5",
+            "price": ""
+          }
+        ]
+      },
+      {
+        "title": "Extra",
+        "modifiers": [
+          {
+            "modifier": "Double Protein Beef",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Chicken",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Crispy Pork Belly",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Duck",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Pork",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Shrimp",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Double Protein Tofu",
+            "price": "+$10.00"
+          },
+          {
+            "modifier": "Extra Rice",
+            "price": "+$3.00"
+          },
+          {
+            "modifier": "Extra Stir Fry Sauce",
+            "price": "+$2.00"
+          },
+          {
+            "modifier": "Extra Veggies",
+            "price": "+$5.00"
+          },
+          {
+            "modifier": "Side of Rice Noodles",
+            "price": "+$3.00"
+          }
+        ]
+      },
+      {
+        "title": "ALLERGY\nPlease select up to 1",
+        "modifiers": [
+          {
+            "modifier": "Gluten Free",
+            "price": ""
+          },
+          {
+            "modifier": "Vegan",
+            "price": ""
+          },
+          {
+            "modifier": "Vegetarian",
+            "price": ""
+          }
+        ]
+      }
+    ]
+  }
+]

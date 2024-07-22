@@ -1,0 +1,534 @@
+[
+  {
+    "meal_type": "SMALL PLATES",
+    "name": "Polpette",
+    "description": "Meatballs in Tomato Sauce",
+    "bottomPrice": "$12",
+    "topPrice": "$12"
+  },
+  {
+    "meal_type": "SMALL PLATES",
+    "name": "Marinated Olives (GF)",
+    "description": "",
+    "bottomPrice": "$11",
+    "topPrice": "$11"
+  },
+  {
+    "meal_type": "SMALL PLATES",
+    "name": "Wild Patagonian Pink Shrimp",
+    "description": "Tomato, Shaved Fennel, House-Preserved Lemon, Garlic, Red Chile Flake, Local Bread",
+    "bottomPrice": "$16",
+    "topPrice": "$16"
+  },
+  {
+    "meal_type": "SMALL PLATES",
+    "name": "Burrata",
+    "description": "Pesto, Tomato, Balsamic, Olive Oil, Toast",
+    "bottomPrice": "$15",
+    "topPrice": "$15"
+  },
+  {
+    "meal_type": "SALAD",
+    "name": "Caesar*",
+    "description": "Romaine, House Made Crouton, Pecorino",
+    "bottomPrice": "Small $7 Large $14",
+    "topPrice": "Small $7 Large $14"
+  },
+  {
+    "meal_type": "SALAD",
+    "name": "Beet",
+    "description": "Arugula, Shaved Pecorino, Hazelnut, Strawberry, Parsley, Balsamic Vinaigrette",
+    "bottomPrice": "$14",
+    "topPrice": "$14"
+  },
+  {
+    "meal_type": "ENTREE",
+    "name": "Chicken Parmesan",
+    "description": "Organic Chicken, Linguine, Marinara, Mozzarella, Basil",
+    "bottomPrice": "$30",
+    "topPrice": "$30"
+  },
+  {
+    "meal_type": "ENTREE",
+    "name": "House-Made Pappardelle",
+    "description": "Asparagus, Green Peas, MT Wild Mushroom, Pistachio Lemon Cream Sauce",
+    "bottomPrice": "$28",
+    "topPrice": "$28"
+  },
+  {
+    "meal_type": "ENTREE",
+    "name": "Spaghetti & Meatballs",
+    "description": "",
+    "bottomPrice": "$23",
+    "topPrice": "$23"
+  },
+  {
+    "meal_type": "ENTREE",
+    "name": "Macaroni & Cheese",
+    "description": "Baked with Pork Belly & Toasted Breadcrumb-available GF",
+    "bottomPrice": "$23",
+    "topPrice": "$23"
+  },
+  {
+    "meal_type": "ENTREE",
+    "name": "Pan-Seared Salmon*",
+    "description": "Roasted Green Beans, Lemon Herbed Rice, Tarragon Beurre Blanc, Fried Shallot (GF)",
+    "bottomPrice": "$32",
+    "topPrice": "$32"
+  },
+  {
+    "meal_type": "ENTREE",
+    "name": "Shrimp Capellini",
+    "description": "Tomato, Caper, Artichoke, Garlic, Red Chili Flake, Preserved Lemon Beurre Blanc",
+    "bottomPrice": "$25",
+    "topPrice": "$25"
+  },
+  {
+    "meal_type": "",
+    "name": "Pizza 12\" & 16\"",
+    "description": "Take & Bake and Gluten Free Options Available",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "",
+    "name": "Margherita",
+    "description": "Tomato Sauce, Basil, Fresh Mozzarella, Grana Padano, Olive Oil",
+    "bottomPrice": "$20, $25",
+    "topPrice": "$20, $25"
+  },
+  {
+    "meal_type": "",
+    "name": "Montanan",
+    "description": "Tomato Sauce, Elk Sausage, Mozzarella, Pickled Red Onion, Mushroom, Potato Chip, Sage, Rosemary",
+    "bottomPrice": "$25, $31",
+    "topPrice": "$25, $31"
+  },
+  {
+    "meal_type": "",
+    "name": "Salsiccia",
+    "description": "Tomato Sauce, Mozzarella, Fennel Sausage, Sweet Onion, Garlic",
+    "bottomPrice": "$23, $29",
+    "topPrice": "$23, $29"
+  },
+  {
+    "meal_type": "",
+    "name": "Prosciutto",
+    "description": "Date Jam, Prosciutto, Fresh Mozzarella, Arugula, Red Pepper Fried Egg",
+    "bottomPrice": "$26, $33",
+    "topPrice": "$26, $33"
+  },
+  {
+    "meal_type": "",
+    "name": "BBQ Chicken",
+    "description": "BBQ Base, Mozzarella, Grilled Chicken, Red Onion, Pineapple, Jalapeno",
+    "bottomPrice": "$26, $33",
+    "topPrice": "$26, $33"
+  },
+  {
+    "meal_type": "",
+    "name": "Hawaiian",
+    "description": "Pineapple Puree, Mozzarella, Jalapeño, Pork Belly, Sweet Onion",
+    "bottomPrice": "$24, $30",
+    "topPrice": "$24, $30"
+  },
+  {
+    "meal_type": "",
+    "name": "Summer Pie",
+    "description": "Garlic Oil Base, Fresh Mozzarella, Artichoke Hearts, Feta, Oven Roasted Tomato, Red Onion, Kalamata, Oregano",
+    "bottomPrice": "$23, $29",
+    "topPrice": "$23, $29"
+  },
+  {
+    "meal_type": "",
+    "name": "White Pizza",
+    "description": "Ricotta & Olive Oil Base, Shredded Mozzarella, Wilted Spinach, Mushroom, Fresh Garlic, Onion",
+    "bottomPrice": "$23, $29",
+    "topPrice": "$23, $29"
+  },
+  {
+    "meal_type": "",
+    "name": "Wild Mushroom",
+    "description": "Olive Oil Base, Fresh Mozzarella, Chèvre, Roasted Wild MT Mushrooms, Prosciutto, Sweet Onion, Balsamic, Sage & Rosemary",
+    "bottomPrice": "$26, $32",
+    "topPrice": "$26, $32"
+  },
+  {
+    "meal_type": "",
+    "name": "Custom Marinara Pizza",
+    "description": "Cheese included ~ Choose toppings below",
+    "bottomPrice": "$18, $22",
+    "topPrice": "$18, $22"
+  },
+  {
+    "meal_type": "",
+    "name": "Pizza Toppings",
+    "description": "",
+    "bottomPrice": "$2.50 \n                  \n                    /\n                  \n                    $3 each",
+    "topPrice": "$2.50 / $3 each"
+  },
+  {
+    "meal_type": "",
+    "name": "Cheese",
+    "description": "Mozzarella, Fresh Mozz, Ricotta, Chevre, Feta",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "",
+    "name": "Meats",
+    "description": "Pepperoni, Fennel Sausage, Elk Sausage, Anchovies, Egg",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "",
+    "name": "Veggies",
+    "description": "Mushrooms, Pickled Red Onion, Sweet Onion, Raw Onion, Roasted Red Peppers, Pepperoncini, Jalapeno, Fresh Garlic, Roasted Garlic, Artichoke Hearts, Black Olives, Kalamata Olives, Fresh Tomato, Pineapple, Potato, Spinach, Arugula, Basil, Rosemary & Sage",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "",
+    "name": "Premium Toppings",
+    "description": "Meatballs, Prosciutto, Pork Belly, Chicken, Wild Mushrooms",
+    "bottomPrice": "$4 \n                  \n                    /\n                  \n                    $5 each",
+    "topPrice": "$4 / $5 each"
+  },
+  {
+    "meal_type": "",
+    "name": "Local Bread Available Upon Request",
+    "description": "Served with Balsamic Vinegar & Extra Virgin Olive Oil",
+    "bottomPrice": "$4",
+    "topPrice": "$4"
+  },
+  {
+    "meal_type": "BAMBINOS",
+    "name": "Cheese Pizza",
+    "description": "",
+    "bottomPrice": "$10",
+    "topPrice": "$10"
+  },
+  {
+    "meal_type": "BAMBINOS",
+    "name": "Pepperoni Pizza",
+    "description": "",
+    "bottomPrice": "$11",
+    "topPrice": "$11"
+  },
+  {
+    "meal_type": "BAMBINOS",
+    "name": "Spaghetti",
+    "description": "Butter & Parmesan",
+    "bottomPrice": "$10",
+    "topPrice": "$10"
+  },
+  {
+    "meal_type": "BAMBINOS",
+    "name": "Spaghetti & Meatball",
+    "description": "",
+    "bottomPrice": "$15",
+    "topPrice": "$15"
+  },
+  {
+    "meal_type": "BAMBINOS",
+    "name": "Mac & Cheese ---Available Gluten Free---",
+    "description": "",
+    "bottomPrice": "$10",
+    "topPrice": "$10"
+  },
+  {
+    "meal_type": "BAMBINOS",
+    "name": "Side: Organic Broccoli & Cheese Sauce",
+    "description": "",
+    "bottomPrice": "$5",
+    "topPrice": "$5"
+  },
+  {
+    "meal_type": "HOUSE COCKTAILS (A SAMPLE OF OUR OFFERINGS)",
+    "name": "Aperol Spritz",
+    "description": "Prosecco, Aperol, Soda, Orange",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE COCKTAILS (A SAMPLE OF OUR OFFERINGS)",
+    "name": "Rosemary Gimlet",
+    "description": "Tito's Vodka, Rosemary Simple Syrup, Lime, Vanilla Bean Sugar Rim",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE COCKTAILS (A SAMPLE OF OUR OFFERINGS)",
+    "name": "MT Negroni",
+    "description": "Ruby River Gin, Campari, Orange Infused Italian Sweet Vermouth",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE COCKTAILS (A SAMPLE OF OUR OFFERINGS)",
+    "name": "Kentucky Mule",
+    "description": "Bulleit Bourbon, Ginger Beer, Fresh Lime",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE COCKTAILS (A SAMPLE OF OUR OFFERINGS)",
+    "name": "Lemon Thyme Salty Dog",
+    "description": "Stoli Citros, Grapefruit Juice, Lemon Thyme Salted Rim",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE COCKTAILS (A SAMPLE OF OUR OFFERINGS)",
+    "name": "Limoncello",
+    "description": "House Made Classic Italian Liqueur",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "BEER",
+    "name": "Draft",
+    "description": "Rainier & Rotating Local/Seasonal Ales",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "BEER",
+    "name": "Domestic Bottles",
+    "description": "Coors, Coors Light, Bud Light, Miller Light",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "BEER",
+    "name": "Microbrews",
+    "description": "MAP Midas Crush IPA, Salmon Fly Honey Rye, Philipsburg Haybag Hefeweizen, ColdSmoke Scotch Ale",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "BEER",
+    "name": "Imported Bottles",
+    "description": "Peroni & Becks (NA)",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "BEER",
+    "name": "Cock 'n Bull Ginger Beer (NA)",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "BEER",
+    "name": "Crabbie's Original Hard Cider",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "BEER",
+    "name": "Shacksbury Dry Cider",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "WHITE WINE",
+    "name": "Tutela Prosecco NV",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "WHITE WINE",
+    "name": "Antinori Chardonnay",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "WHITE WINE",
+    "name": "Santa Christina Orvieto",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "WHITE WINE",
+    "name": "Saracco Moscato D'Asti 375ml",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "ROSE",
+    "name": "Valdo Sparkling Rose",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "ROSE",
+    "name": "Villa Sparina",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Feudi Montepulciano",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Poggio Anima Sangiovese",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Codirosso Chianti",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "William Walch Pinot Noir",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Tormaresca Neprica",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Masi Brolo Ripasso Valpolicella",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Luigi Righetti Amarone Della Valpolicella",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Ellena Nebbiolo",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Bovio Barolo",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Renato Ratti Barolo",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Rodano Chianti Classico",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "RED WINE",
+    "name": "Terrabianca Campaccio",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE MADE DESSERTS",
+    "name": "Ice Cream Sandwich",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE MADE DESSERTS",
+    "name": "Warm Caramel Pretzel Brownie Sundae",
+    "description": "Vanilla Gelato & Caramel Sauce",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE MADE DESSERTS",
+    "name": "Rocky Mountain Rootbeer Float",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE MADE DESSERTS",
+    "name": "Gelato",
+    "description": "Ask your server for today’s selections",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE MADE DESSERTS",
+    "name": "Affogato",
+    "description": "Gelato served with a shot of espresso or hot chocolate for bambinos",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "HOUSE MADE DESSERTS",
+    "name": "Add shot of Koloa Dark Rum",
+    "description": "",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "DRINKS",
+    "name": "Hot Russian",
+    "description": "Stoli, Kahlua, Steamed Milk",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "DRINKS",
+    "name": "Mulled Cider",
+    "description": "Yazi Ginger Vodka, Stoli Oranj, Apple Cider, Cinnamon Stick",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "DRINKS",
+    "name": "That’s a Nice ‘a",
+    "description": "Chocolate cup filled with Galliano & a shot of espresso",
+    "bottomPrice": "",
+    "topPrice": ""
+  },
+  {
+    "meal_type": "DRINKS",
+    "name": "Limoncello",
+    "description": "House made classic Italian liqueur",
+    "bottomPrice": "",
+    "topPrice": ""
+  }
+]
