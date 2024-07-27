@@ -1,6 +1,6 @@
 // server.js
 const express = require('express');
-const { scrape } = require('./scraper');
+const { scrape } = require('./scripts/toastTab');
 
 const app = express();
 const port = 3000;
