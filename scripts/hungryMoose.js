@@ -36,8 +36,8 @@ async function extractItemInfoSelectors (page) {
     return contents.flatMap(content =>
       Array.from(content.querySelectorAll('.w-dyn-item')).map(item => ({
         name: item.querySelector('.blog19_title-wrapper-inner') ? item.querySelector('.blog19_title-wrapper-inner').innerText : '',
-        price: item.querySelector('.blog19_category-wrapper') ? item.querySelector('.blog19_category-wrapper').innerText.trim() : '',
-        meal_type: content.querySelector('.heading-large') ? content.querySelector('.heading-large').innerText : '',
+        price: item.querySelector('.blog19_category-wrapper') ? item.querySelector('.blog19_category-wrapper').innerText.replace(/\n/g, '').trim() : '',
+        food_type: content.querySelector('.heading-large') ? content.querySelector('.heading-large').innerText : '',
         description: item.querySelector('.text-size-regular') ? item.querySelector('.text-size-regular').innerText : ''
       })),
     );

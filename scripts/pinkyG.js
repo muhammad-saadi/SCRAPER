@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer-extra');
 const fs = require('fs');
 const StealthPlugin = require('puppeteer-extra-plugin-stealth');
+const { title } = require('process');
 
 puppeteer.use(StealthPlugin());
 
@@ -35,9 +36,9 @@ const restaurant = {
 
   let extractedData = [];
 
-  for (const { name, price, meal_type } of itemInfoSelectors) {
+  for (const { name, price, food_type } of itemInfoSelectors) {
     try {
-      await extractItemInfoSelectors(page, name, meal_type, price, extractedData);
+      await extractItemInfoSelectors(page, name, food_type, price, extractedData);
     } catch (error) {
       console.log(`Error while processing item ${name}: ${error.message}`);
     }
@@ -52,17 +53,17 @@ const restaurant = {
 async function extractItemsInfo(page) {
   return await page.$$eval('#section-1 div[_ngcontent-c6][id]', contents => {
     return contents.flatMap(content => {
-      const meal_type = content.querySelector('.all-cat-header').innerText;
+      const food_type = content.querySelector('.all-cat-header').innerText;
       return Array.from(content.children[1].querySelectorAll('div[_ngcontent-c6]')).map(item => ({
         name: item.querySelector('h3') ? item.querySelector('h3').innerText : '',
         price: item.querySelector('strong') ? item.querySelector('strong').innerText.trim() : '',
-        meal_type: meal_type
+        food_type: food_type
       }));
     });
   });
 }
 
-async function extractItemInfoSelectors(page, name, meal_type, price, extractedData) {
+async function extractItemInfoSelectors(page, name, food_type, price, extractedData) {
   console.log(`Clicking on item: ${name}`);
   await page.evaluate((itemName) => {
     const itemDiv = Array.from(document.querySelectorAll('div h3')).find(h3 => h3.innerText === itemName)?.closest('div');
@@ -82,11 +83,11 @@ async function extractItemInfoSelectors(page, name, meal_type, price, extractedD
     if (modifier_groups.length > 0) {
       return Array.from(modifier_groups).flatMap(modifier_group => {
         const items = modifier_group.querySelectorAll('ion-label');
-        const modifier_meal_type = modifier_group.querySelector('.accordion-title').innerText;
+        const modifier_food_type = modifier_group.querySelector('.accordion-title').innerText;
         return Array.from(items).map(item => ({
           name: item.querySelector('.name') ? item.querySelector('.name').innerText : '',
           price: item.querySelector('.price') ? item.querySelector('.price').innerText : '',
-          meal_type: modifier_meal_type
+          title: modifier_food_type
         }));
       });
     } else {
@@ -98,7 +99,7 @@ async function extractItemInfoSelectors(page, name, meal_type, price, extractedD
 
   extractedData.push({
     name: name,
-    meal_type: meal_type,
+    food_type: food_type,
     price: price,
     modifiers: modifiers
   });

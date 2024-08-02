@@ -5,7 +5,7 @@ const StealthPlugin = require('puppeteer-extra-plugin-stealth');
 puppeteer.use(StealthPlugin());
 
 const restaurants = [
-  { name: "Blue Moon Bakery", url: 'https://www.toasttab.com/local/order/bluemoonbigsky/r-1ae2c635-46b7-4ff2-854d-9e723f8846fa' },
+  // { name: "Blue Moon Bakery", url: 'https://www.toasttab.com/local/order/bluemoonbigsky/r-1ae2c635-46b7-4ff2-854d-9e723f8846fa' },
   { name: "Tips Up", pos_system: "Toast", url: 'https://www.toasttab.com/local/order/tips-up-new-urgo-account-vsiyx/r-51c22831-c086-4beb-b616-6d387a942017', scrape_type: "api" },
   { name: "Block 3 Kitchen & Bar", pos_system: "Toast", url: 'https://www.toasttab.com/local/order/block-3-previously-copper-big-sky-glacu/r-22ee532a-2bbb-4fee-bcee-03a872868343', scrape_type: "api" },
   { name: "Thai Basil", pos_system: "Toast", url: 'https://www.toasttab.com/local/order/thai-basil-112-falls-rd/r-23725986-a1d5-4ad6-bc5d-dc5d8fe033da', scrape_type: "api" },
@@ -21,18 +21,21 @@ const restaurants = [
     const page = await browser.newPage();
     await page.goto(restaurant.url, { waitUntil: 'networkidle2' });
 
+    await new Promise(resolve => setTimeout(resolve, 10000));
+
     const itemInfoSelectors = await extractItemInfoSelectors(page);
     const extractedData = [];
 
-    for (const { anchorHref, itemInfoText, itemPrice, meal_type } of itemInfoSelectors) {
+    for (const { anchorHref, itemInfoText, itemPrice, food_type, description } of itemInfoSelectors) {
       try {
         const modalText = await handleModal(page, anchorHref, restaurant.url);
         
         extractedData.push({
-          itemInfo: itemInfoText,
-          meal_type: meal_type,
+          name: itemInfoText,
+          description: description,
+          food_type: food_type,
           price: itemPrice,
-          modalContent: modalText
+          modifiers: modalText
         });
 
         // Close the modal (assuming there's a close button within the modal)
@@ -47,7 +50,7 @@ const restaurants = [
     }
 
     // Save extracted data to a file
-    const filePath = `${restaurant.name.replace(/\s+/g, '_').toLowerCase()}_menu.json`;
+    const filePath = `${restaurant.name.replace(/\s+/g, '_').toLowerCase()}_menu1.json`;
     fs.writeFileSync(filePath, JSON.stringify(extractedData, null, 2), 'utf-8');
     console.log(`Extracted and saved item info for ${restaurant.name} at ${filePath}`);
 
@@ -66,9 +69,10 @@ async function extractItemInfoSelectors(page) {
       const items = content.querySelectorAll('.item');
       return Array.from(items).map(item => ({
         anchorHref: item.querySelector('a') ? item.querySelector('a').getAttribute('href') : '',
-        itemInfoText: item.querySelector('.itemHeader') ? item.querySelector('.itemHeader').innerText : '',
+        itemInfoText: item.querySelector('.headerText') ? item.querySelector('.headerText').innerText : '',
+        description: item.querySelector('.itemContent') ? item.querySelector('.itemContent').innerText : '',
         itemPrice: item.querySelector('.priceAvailability') ? item.querySelector('.priceAvailability').innerText : '',
-        meal_type: mealType
+        food_type: mealType
       }));
     });
   });
@@ -86,19 +90,21 @@ async function handleModal(page, anchorHref, restaurantUrl) {
   await page.waitForSelector('.PORTAL .modal .modalWrapper .modalContent .itemModalContainer .itemModal .content .paddedContent', { visible: true, timeout: 10000 });
 
   // Wait for 3 seconds to keep the modal open
-  await new Promise(resolve => setTimeout(resolve, 1000));
+  await new Promise(resolve => setTimeout(resolve, 2000));
 
   // Get modal content within the portal
   const itemModifiers = await page.$eval('.modifierGroups', content => content.innerText.trim());
   if (itemModifiers) {
     return await page.$$eval('.modifierGroup', groups => {
-      return groups.map(group => ({
-        title: group.querySelector('.title').innerText,
-        modifiers: Array.from(group.querySelectorAll('.row')).map(row => ({
-          modifier: row.querySelector('.modifierText') ? row.querySelector('.modifierText').innerText : '',
-          price: row.querySelector('.price') ? row.querySelector('.price').innerText : ""
+      return groups.flatMap(group => {
+        const title = group.querySelector('.title').innerText;
+        return Array.from(group.querySelectorAll('.row')).map(row => ({
+          name: row.querySelector('.modifierText') ? row.querySelector('.modifierText').innerText : '',
+          price: row.querySelector('.price') ? row.querySelector('.price').innerText : "",
+          title: title.includes('Required') ? title.split('\n')[0] : title,
+          primary: title.includes('Required') ? true : false
         }))
-      }));
+      });
     });
   } else {
     return "";

@@ -15,7 +15,7 @@ const restaurant = { name: "The Rocks", pos_system: "None", url: 'https://postma
 
   let extractedData = [];
 
-  for (const { anchorHref, name, itemPrice, meal_type, description } of itemInfoSelectors) {
+  for (const { anchorHref, name, itemPrice, food_type, description } of itemInfoSelectors) {
     try {
       console.log(`Clicking on ${anchorHref}`);
       await clickItemLink(page, anchorHref);
@@ -27,7 +27,7 @@ const restaurant = { name: "The Rocks", pos_system: "None", url: 'https://postma
       extractedData.push({
         name: name,
         description: description,
-        meal_type: meal_type,
+        food_type: food_type,
         price: itemPrice,
         modifiers: modifiers
       });
@@ -50,13 +50,13 @@ const restaurant = { name: "The Rocks", pos_system: "None", url: 'https://postma
 async function extractItemInfoSelectors(page) {
   return await page.$$eval('.md', contents => {
     return contents.flatMap(content => {
-      const mealType = content.querySelector('.al').innerText;
+      const foodType = content.querySelector('.al').innerText;
       const items = content.querySelectorAll('.im.mr.ms.mt.ak.j5.f1.bm');
       return Array.from(items).map(item => ({
         anchorHref: item.querySelector('.al.ec.d8.dd.mu.mv.mw') ? item.querySelector('.al.ec.d8.dd.mu.mv.mw').getAttribute('href') : '',
         name: item.querySelector('.dl') ? item.querySelector('.dl').innerText : '',
         itemPrice: item.querySelector('.g2.fv.g3.be.bf.g4.bh.bi.b1') ? item.querySelector('.g2.fv.g3.be.bf.g4.bh.bi.b1').innerText : '',
-        meal_type: mealType,
+        food_type: foodType,
         description: item.querySelector('.ld.jl.jn.jm.bm.mz.n0') ? item.querySelector('.ld.jl.jn.jm.bm.mz.n0').innerText : '',
       }));
     });
@@ -78,7 +78,8 @@ async function extractModalContent(page) {
       const items = modal[0].querySelector('[data-testid="customization-pick-many"]').children[1].querySelectorAll('label');
       return Array.from(items).map(item => ({
         name: item.querySelector('.be.bf.bg.bh.bi.g5.mz') ? item.querySelector('.be.bf.bg.bh.bi.g5.mz').innerText : '',
-        price: item.querySelector('.be.bf.g4.bh.bi.g5.bo') ? item.querySelector('.be.bf.g4.bh.bi.g5.bo').innerText : ''
+        price: item.querySelector('.be.bf.g4.bh.bi.g5.bo') ? item.querySelector('.be.bf.g4.bh.bi.g5.bo').innerText : '',
+        title: ''
       }));
     } else {
       return null;

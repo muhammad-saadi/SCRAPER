@@ -62,7 +62,7 @@ async function extractItemInfoSelectors(frame) {
       return Array.from(items).map(item => ({
         name: item.querySelector('.classic1PykL') ? item.querySelector('.classic1PykL').innerText : 'Name not found',
         price: item.querySelector('.classic2Vkl6') ? item.querySelector('.classic2Vkl6').innerText.trim() : 'Price not found',
-        meal_type: content.querySelector('.classic1G-zy') ? content.querySelector('.classic1G-zy').innerText : 'Meal type not found',
+        food_type: content.querySelector('.classic1G-zy') ? content.querySelector('.classic1G-zy').innerText : 'Meal type not found',
         description: item.querySelector('.classicBtE0-') ? item.querySelector('.classicBtE0-').innerText : 'Description not found'
       }));
     });
